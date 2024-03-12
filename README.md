@@ -122,7 +122,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@jitesh-rathod] - feel free to contact me!
+Created by [Avaneesh Srivastava] - feel free to contact me!
 
 
 <!-- Optional -->
